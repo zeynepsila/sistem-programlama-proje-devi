@@ -1,1 +1,1 @@
-# sistem-programlama-proje-devi
+sistem programlama dersi 1.proje ödevi
